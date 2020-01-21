@@ -1,1 +1,1 @@
-# resources
+https://nostarch.com/catalog/programming
